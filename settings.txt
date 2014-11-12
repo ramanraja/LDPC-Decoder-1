@@ -1,0 +1,16 @@
+block_length = 30
+check_length = 20
+row_weight = 4
+column_weight = 3
+generate_random = false
+random_seed = 13
+silent_mode = false
+
+
+
+
+
+
+
+
+
